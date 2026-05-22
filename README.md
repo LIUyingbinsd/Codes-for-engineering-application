@@ -1,9 +1,9 @@
-# Multi-modal Tunnel Deformation Numerical Solver
+# Tunnel Deformation Numerical Solver
 
-This repository contains the source code corresponding to the numerical implementation described in the manuscript:
+This repository contains the source code corresponding to the numerical implementation described in the manuscript
 
 ## Overview
-This code implements the three-dimensional multi-modal tunnel deformation framework. It is used to simulate the tunnel response induced by ultra-close jet grouting in the SCL Contract 1112 project.
+This code implements the three-dimensional beam-on-foundation framework. 
 
 ## Files
 - `Main_Solver.m`: Main script to execute the numerical simulation.
